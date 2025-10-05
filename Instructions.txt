@@ -1,0 +1,8 @@
+Setup Instructions:
+# Lagay mo pareho sa same folder:
+/sdcard/
+  ├── module_Run.sh
+  └── Connect.sh
+
+# Then run:
+sh /sdcard/module_Run.sh
